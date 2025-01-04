@@ -13,3 +13,4 @@ Generando Conflictos desde Github
 ## Cambios 
 
 Nuevos cambios
+Cambios desde el modo local

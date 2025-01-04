@@ -8,7 +8,7 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde Github
 
-Generando Conflictos desde Github
+Generando Conflictos desde Github para el local.
 
 ## Cambios 
 

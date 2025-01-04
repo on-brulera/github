@@ -8,7 +8,7 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde Github
 
-Generando Conflictos desde local para el rebase.
+Ejercicio Rebase solucionado
 
 ## Cambios 
 

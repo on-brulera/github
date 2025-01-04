@@ -8,7 +8,7 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde Github
 
-Ejercicio Rebase solucionado
+Ejercicio Resuelto
 
 ## Cambios 
 

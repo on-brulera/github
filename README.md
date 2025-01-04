@@ -8,8 +8,7 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde Github
 
-Este es un mensaje desde Github
-
+Generando Conflictos desde Github
 
 ## Cambios 
 
